@@ -6,6 +6,8 @@
 
 ## Table of contents
 
+# Gaurav Singh
+
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
 - [Features](#features)
